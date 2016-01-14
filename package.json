@@ -2,18 +2,18 @@
     "name": "gitbook-plugin-fontsettings",
     "description": "Fonts and colors themes settings the website for a better reading experience",
     "main": "index.js",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": "Apache-2.0",
-    "homepage": "https://github.com/GitbookIO/plugin-fontsettings",
+    "homepage": "https://github.com/imfly/plugin-fontsettings.git",
     "engines": {
         "gitbook": ">=2.4.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/plugin-fontsettings.git"
+        "url": "https://github.com/imfly/plugin-fontsettings.git"
     },
     "bugs": {
-        "url": "https://github.com/GitbookIO/plugin-fontsettings/issues"
+        "url": "https://github.com/imfly/plugin-fontsettings.git/issues"
     },
     "devDependencies": {
         "less": "2.5.1"
